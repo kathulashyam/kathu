@@ -1,0 +1,6 @@
+2022/11/24-12:03:36.127 3ce0 Reusing MANIFEST C:\Users\kathu\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/11/24-12:03:36.128 3ce0 Recovering log #3
+2022/11/24-12:03:36.129 3ce0 Reusing old log C:\Users\kathu\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/000003.log 
+2022/11/24-12:06:38.169 3f58 Level-0 table #5: started
+2022/11/24-12:06:38.173 3f58 Level-0 table #5: 97199 bytes OK
+2022/11/24-12:06:38.175 3f58 Delete type=0 #3
